@@ -20,7 +20,7 @@ and online books.<br />
     Here is an example code of using scientific publications from PubMed website.
     
     
-## First, Download MEDLINE format file from PubMed website.
+## Download MEDLINE format file from PubMed website.
 
 
 ![image](https://github.com/Imshepherd/wordVectors-R-PubMed-Resourse/blob/master/example_picture.png)
